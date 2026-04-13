@@ -7,6 +7,7 @@ We have already used 200 high-quality eye feature images, and the current progre
 <img width="1000" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/0854dddb-8985-437d-9ce9-ac19d040ffd0" />
 [training_log.csv](https://github.com/user-attachments/files/26681146/training_log.csv)
 accuracy,loss,val_accuracy,val_loss
+
 0.5714285969734192,0.6904890537261963,0.5531914830207825,0.6899095177650452
 0.5064935088157654,0.6959514021873474,0.5531914830207825,0.6875529289245605
 0.5194805264472961,0.706633985042572,0.5531914830207825,0.6858022212982178
